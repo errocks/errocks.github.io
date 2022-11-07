@@ -6,7 +6,7 @@
   <link href="https://errocks.github.io/atom.xml" rel="self"/>
   
   <link href="https://errocks.github.io/"/>
-  <updated>2022-08-09T07:12:44.812Z</updated>
+  <updated>2022-11-07T16:57:43.055Z</updated>
   <id>https://errocks.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test blog</title>
+    <link href="https://errocks.github.io/2022/11/08/yuque/test%20blog/"/>
+    <id>https://errocks.github.io/2022/11/08/yuque/test%20blog/</id>
+    <published>2022-11-07T16:43:30.000Z</published>
+    <updated>2022-11-07T16:57:43.055Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.nlark.com/yuque/0/2022/png/545431/1667840257001-3229199f-4f6a-4ae5-9208-6148421ada7f.png#averageHue=%23fafafa&clientId=u6cd62893-b331-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=114&id=u35342abe&margin=%5Bobject%20Object%5D&name=image.png&originHeight=228&originWidth=592&originalType=binary%E2%88%B6=1&rotation=0&showTitle=false&size=22856&status=done&style=none&taskId=ubf02a705-660f-4937-9346-2dae34db498&title=&width=296" alt="image.png"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.nlark.com/yuque/0/2022/png/545431/1667840257001-3229199f-4f6a-4ae5-9208-6148421ada7f.png#averageHue=%23fafafa&amp;clien</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World2323</title>
